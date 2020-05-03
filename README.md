@@ -1,16 +1,11 @@
----
-title: Rapport de projet - Ansible AWX
----
 <h1> <center>Proof Of Concept Ansible AWX</center> </h1>
-
-> [name=Solen BELLOUATI] [time=03 mai 2020]
 
 - [Présentation Ansible AWX](#pres)
 - [Installation et déploiement de l’environnement de test](#inst)
 
 > ### <center>Présentation Ansible AWX </center> <a id="pres"></a>
 
-![](https://i.imgur.com/RmaTRNN.png =700x190)
+![](https://i.imgur.com/RmaTRNN.png)
 
 
 **AWX** est la version **Open-Source** de l'outil d'orchestration **Ansible Tower** développé par **RedHat**.
