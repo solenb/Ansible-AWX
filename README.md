@@ -25,8 +25,6 @@
   * [**Cas pratique - Serveur Nextcloud**](#--cas-pratique---serveur-nextcloud--)
   * [***Conclusion***](#---conclusion---)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 > # Présentation Ansible AWX
 
 ![](https://i.imgur.com/RmaTRNN.png)
