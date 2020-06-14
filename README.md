@@ -1,13 +1,10 @@
----
-title: Rapport d'étude - Ansible AWX
----
+
 # Rapport d'étude - Proof Of Concept AWX
 
-> [name=Solen BELLOUATI] [time=13 juin 2020]
+> Solen BELLOUATI
+> 13 juin 2020
 
 ***Sommaire***
-
-[TOC]
 
 
 > # Présentation Ansible AWX
