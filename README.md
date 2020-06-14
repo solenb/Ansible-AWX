@@ -5,11 +5,11 @@
 > 13 juin 2020
 
 ***Sommaire***
-
+[TOC]
 
 > # Présentation Ansible AWX
 
-![](https://i.imgur.com/RmaTRNN.png =700x190)
+![](https://i.imgur.com/RmaTRNN.png)
 
 
 `AWX` est la version `Open-Source` de l'outil d'orchestration `Ansible Tower` développé par `RedHat`, il est la vitrine de ce dernier, ce qui signifie qu'il dispose des dernières nouveauté en premier.
