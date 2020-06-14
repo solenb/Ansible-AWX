@@ -5,7 +5,6 @@
 > 13 juin 2020
 
 ***Sommaire***
-markdown.markdown(some_text, extensions=['toc'])
 
 > # Présentation Ansible AWX
 
